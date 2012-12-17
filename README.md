@@ -8,9 +8,13 @@ The Recipe
 Inspiration: Goya Ginger Beer
 
 Desired output:
+
 light, crisp, refreshing
+
 fiery - delayed, spreading down the throat
+
 minimal lemon flavor
+
 not overly sweet
 
 questions:
